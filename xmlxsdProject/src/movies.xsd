@@ -10,7 +10,7 @@
 <simpleType>
 <restriction base="int">
 <totalDigits value="4"></totalDigits>
-<minExclusive value="5001"></minExclusive>
+<minInclusive value="5001"></minInclusive>
 <maxExclusive value="6000"></maxExclusive>
 </restriction>
 </simpleType>
